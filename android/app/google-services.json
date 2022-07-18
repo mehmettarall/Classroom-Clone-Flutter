@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "779760599270",
+    "project_id": "donembitir",
+    "storage_bucket": "donembitir.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:779760599270:android:15218f495009c5f8ecfb27",
+        "android_client_info": {
+          "package_name": "com.example.donem_btr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "779760599270-2s9hdu8hp4aan13sd6g98iugeon1m1ft.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.donem_btr",
+            "certificate_hash": "c89a3789a39255216f96d440adc71dd3f69f448e"
+          }
+        },
+        {
+          "client_id": "779760599270-edbpvqnjsf4aa4phmo6n25rv388q7hda.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmHHYvQ_jhXKJP2UjYpStk62OWkLl9GrE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "779760599270-edbpvqnjsf4aa4phmo6n25rv388q7hda.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
