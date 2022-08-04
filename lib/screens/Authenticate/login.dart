@@ -1,4 +1,4 @@
-// ignore_for_file: prefer_const_constructors, prefer_const_constructors_in_immutables, non_constant_identifier_names
+
 
 import 'package:donem_btr/screens/Authenticate/register.dart';
 import 'package:flutter/material.dart';
